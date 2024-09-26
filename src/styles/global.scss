@@ -7,7 +7,7 @@
 
 .gallery {
   display: grid;
-  grid-template-columns: repeat(auto-fill, minmax(240px, 1fr));
+  grid-template-columns: repeat(auto-fill, minmax(350px, 1fr));
 
   img {
     width: 100%;
@@ -20,6 +20,5 @@
 @media screen and (max-width: 767px) {
   .gallery {
     grid-template-columns: repeat(auto-fill, minmax(150px, 1fr));
-    grid-gap: 5px;
   }
 }
