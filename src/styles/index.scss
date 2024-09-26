@@ -9,12 +9,12 @@ body {
 }
 
 .app {
-  border: 2px solid;
   display: flex;
+  padding: 8px;
 }
 
 .side_bar {
-  border: 2px solid;
+  width: 20%;
   padding: 8px;
   ul {
     list-style: none;
