@@ -1,6 +1,6 @@
 export default function SideNav() {
   return (
-    <nav>
+    <nav className="side_bar">
       <ul>
         <li>
           <a href="">Art & Design</a>
