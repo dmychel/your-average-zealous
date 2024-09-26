@@ -3,10 +3,10 @@ import { BrowserRouter, Routes, Route } from "react-router-dom";
 
 // components and routes
 import SideNav from "./components/SideNav";
-import ArtDesign from "./components/routes/ArtDesign";
-import Elevate from "./components/routes/Elevate";
-import SonicRedesign from "./components/routes/SonicRedesign";
-import AlbumRedesign from "./components/routes/AlbumRedesign";
+import ArtDesign from "./routes/ArtDesign";
+import Elevate from "./routes/Elevate";
+import SonicRedesign from "./routes/SonicRedesign";
+import AlbumRedesign from "./routes/AlbumRedesign";
 
 // styles
 import "/src/styles/index.scss";
