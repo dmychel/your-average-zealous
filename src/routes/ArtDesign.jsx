@@ -2,6 +2,8 @@ import "/src/styles/global.scss";
 
 export default function ArtDesign() {
   const arr = [
+    "https://dmychel.github.io/zealout-images/art_design/whitney.jpg",
+    "https://dmychel.github.io/zealout-images/art_design/marvin.jpg",
     "https://dmychel.github.io/zealout-images/art_design/mac.png",
     "https://dmychel.github.io/zealout-images/art_design/ed.png",
     "https://dmychel.github.io/zealout-images/art_design/TORQUE24.png",
